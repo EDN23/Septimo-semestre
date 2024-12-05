@@ -128,4 +128,5 @@ x_train, x_test, y_train, y_test= train_test_split(x,y, test_size=0.2, stratify=
 
 print(y_train.value_counts())
 print(y_test.value_counts())
-    
+
+
